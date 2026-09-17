@@ -1,0 +1,4 @@
+Bu dalda vana bir milim açıktır.
+Ana dal hâlâ çekimserdir.
+Birleştirilirse oda 0.4 derece ısınır.
+Bu siyasi bir vaat değildir, fiziktir.
